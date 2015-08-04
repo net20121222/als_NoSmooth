@@ -1,0 +1,36 @@
+Analysis time:2015-06-25 00:13:01	2015_06_24_report:
+ckrtmp.cdn.zhanqi.tv	总人数:6632	总延迟人数:793	总百分比:11
+区域:beijing	运营商:dianxin	区域人数:166	区域延迟人数:36	百分比:21
+区域:guizhou	运营商:changchengku	区域人数:17	区域延迟人数:2	百分比:11
+区域:hainan	运营商:changchengku	区域人数:1	区域延迟人数:0	百分比:0
+区域:liaoning	运营商:changchengku	区域人数:229	区域延迟人数:34	百分比:14
+区域:beijing	运营商:yidong	区域人数:5	区域延迟人数:1	百分比:20
+区域:zhejiang	运营商:changchengku	区域人数:6	区域延迟人数:0	百分比:0
+区域:guangdong	运营商:changchengku	区域人数:1274	区域延迟人数:118	百分比:9
+区域:qita	运营商:qita	区域人数:574	区域延迟人数:62	百分比:10
+区域:shanxi	运营商:changchengku	区域人数:47	区域延迟人数:5	百分比:10
+区域:tianjin	运营商:changchengku	区域人数:121	区域延迟人数:14	百分比:11
+区域:fujian	运营商:changchengku	区域人数:126	区域延迟人数:18	百分比:14
+区域:shandong	运营商:dianxin	区域人数:1	区域延迟人数:0	百分比:0
+区域:beijing	运营商:changchengku	区域人数:246	区域延迟人数:30	百分比:12
+区域:hubei	运营商:changchengku	区域人数:789	区域延迟人数:79	百分比:10
+区域:beijing	运营商:dianxintong	区域人数:1055	区域延迟人数:182	百分比:17
+区域:sichuan	运营商:changchengku	区域人数:154	区域延迟人数:20	百分比:12
+区域:hebei	运营商:tietong	区域人数:1	区域延迟人数:0	百分比:0
+区域:heilongjiang	运营商:changchengku	区域人数:97	区域延迟人数:17	百分比:17
+区域:anhui	运营商:changchengku	区域人数:102	区域延迟人数:8	百分比:7
+区域:jiangxi	运营商:changchengku	区域人数:100	区域延迟人数:10	百分比:10
+区域:beijing	运营商:qita	区域人数:29	区域延迟人数:4	百分比:13
+区域:hunan	运营商:changchengku	区域人数:140	区域延迟人数:14	百分比:10
+区域:hebei	运营商:changchengku	区域人数:37	区域延迟人数:3	百分比:8
+区域:yunnan	运营商:changchengku	区域人数:19	区域延迟人数:2	百分比:10
+区域:beijing	运营商:jiaoyuwang	区域人数:55	区域延迟人数:5	百分比:9
+区域:guangdong	运营商:dianxin	区域人数:191	区域延迟人数:27	百分比:14
+区域:guangdong	运营商:qita	区域人数:66	区域延迟人数:6	百分比:9
+区域:jiangsu	运营商:changchengku	区域人数:86	区域延迟人数:10	百分比:11
+区域:chongqing	运营商:changchengku	区域人数:193	区域延迟人数:13	百分比:6
+区域:henan	运营商:changchengku	区域人数:62	区域延迟人数:13	百分比:20
+区域:shandong	运营商:changchengku	区域人数:117	区域延迟人数:10	百分比:8
+区域:shanghai	运营商:changchengku	区域人数:520	区域延迟人数:50	百分比:9
+区域:beijing	运营商:liantong	区域人数:6	区域延迟人数:0	百分比:0
+
